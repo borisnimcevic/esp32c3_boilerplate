@@ -1,7 +1,11 @@
-# Watchular (ESP32-C3 based modular watch)
+# ESP32-C3 minimum components to start a project
 
-### Name origin:
-* watch + modular
+### Motivation:
+The plan is to copy this project every time a new project based on the esp32c3 starts.
+
+### TODO:
+* make a script for renaming all the relevant files for KiCAD to the name of the project
+* Update the Bill Of materials
 
 ### Bill Of Materials
 |Component  |Quantity |Link   |
